@@ -11,7 +11,7 @@ from tkinter import messagebox
 root = Tk()
 root.title('CRUD APP')
 root.resizable(0, 0)
-root.iconbitmap('logo.ico')
+# root.iconbitmap('logo.ico')
 
 
 # ####################################################################FUNCTIONS
